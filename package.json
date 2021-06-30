@@ -16,7 +16,9 @@
     "url": "https://github.com/JennMenji/jest-another-RPG/issues"
   },
   "homepage": "https://github.com/JennMenji/jest-another-RPG#readme",
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  },
   "devDependencies": {
     "jest": "^27.0.5"
   }
